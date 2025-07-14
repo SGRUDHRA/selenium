@@ -1,0 +1,6 @@
+Positive Scenario:
+verify app allows users to login using a valid phnone number and OTP
+verify that on downloading whatsapp application user can register using new mobile number
+confirm send messages are immediately delivered
+Negative Scenario:
+Send media files with incorrect or unsupported formats
